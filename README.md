@@ -122,6 +122,8 @@ services:
  
   #   depends_on:
   #     - frontend
+
+  #   Данный материал по docker-compose я взял с habr, спасибо автору! Вот ссылка https://habr.com/ru/company/ruvds/blog/450312/
 ```
 
 ### Запустить
